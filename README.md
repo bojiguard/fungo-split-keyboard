@@ -1,5 +1,6 @@
 # fungo split keyboard v1.0.
-
+![full](picture/full.jpg)
+![full cover](picture/full%20cover.jpg)
 
 ## fungo split keyboard 는
 기계식 스위치를 사용하고 qmk, zmk 사용을 기반으로 하는 분리형 키보드. 
