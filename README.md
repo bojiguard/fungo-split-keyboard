@@ -188,3 +188,43 @@ elite-c 보드의 추가 포트용(빨간색), nicenano 보드의 배터리 연�
 - 스위치는 배터리 차단용으로, 폰잭은 좌우 키보드 통신용으로 사용, 모두 smd타입
 - 스위치의 단자가 작으므로 납땜시 다른 부품보다 먼저 하는 것이 유리하다.
 
+### 스위치 프레임 pcb
+- 스위치를 끼우는 곳으로체리 mx, 카일Choc 스위치 모두 호환되게 하였으나 카일 스위치의 경우 사용해보지 않아 설치했을 경우 유격은 알 수 없음.
+- mx 스위치를 프레임에 끼울 경우 전용 공구 없이 빼기는 매우 어려움.
+- 좌,우 구분없이 사용이 가능하다.
+- 스위치가 배치되지 않는 공간에 19금 그림이 인쇄되어 있다.(한쪽 면에만 인쇄되어 있으므로 보기 싫을 경우 뒤집어서 사용 가능)
+
+왼쪽, 뒤집으면 오른쪽으로 사용 가능
+![diode solder(2)](picture/top%20pcb.jpg)
+오른쪽, 뒤집으면 왼쪽으로 사용 가능
+![diode solder(2)](picture/top%20pcb%20(2).jpg)
+왼쪽, 오른쪽 뒷면
+![diode solder(2)](picture/top%20frame%20pcb.jpg)
+
+### 패턴 pcb
+- 전자 부품이 납땜되는 곳으로 프레임 pcb아래에 설치된다.
+- 좌,우 패턴이 달라 서로 호환되지 않는다.
+- 왼쪽 키보드의 윗면에는 19금 그림이 인쇄되어 있다.
+
+왼쪽 윗면
+![diode solder(2)](picture/left%20pattern%20pcb%20(2).jpg)
+왼쪽 아랫면
+![diode solder(2)](picture/left%20pattern%20pcb.jpg)
+오른쪽 윗면
+![diode solder(2)](picture/right%20pattern%20pcb%20(2).jpg)
+오른쪽 아랫면
+![diode solder(2)](picture/right%20pattern%20pcb.jpg)
+
+### 하부 케이스 pcb
+- 스위치를 끼우는 곳으로체리 mx, 카일Choc 스위치 모두 호환되게 하였으나 카일 스위치의 경우 사용해보지 않아 설치했을 경우 유격은 알 수 없음.
+- mx 스위치를 프레임에 끼울 경우 전용 공구 없이 빼기는 매우 어려움.
+- 좌,우 구분없이 사용이 가능하다.
+- 스위치가 배치되지 않는 공간에 19금 그림이 인쇄되어 있다.(한쪽 면에만 인쇄되어 있으므로 보기 싫을 경우 뒤집어서 사용 가능)
+
+왼쪽, 뒤집으면 오른쪽으로 사용 가능
+![diode solder(2)](picture/top%20pcb.jpg)
+오른쪽, 뒤집으면 왼쪽으로 사용 가능
+![diode solder(2)](picture/top%20pcb%20(2).jpg)
+왼쪽, 오른쪽 뒷면
+![diode solder(2)](picture/top%20frame%20pcb.jpg)
+
