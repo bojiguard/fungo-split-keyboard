@@ -265,5 +265,11 @@ elite-c 보드의 추가 포트용(빨간색), nicenano 보드의 배터리 연�
 케이스 바닥에 사용한 풋, 미끄럼 방지
 ![diode solder(2)](picture/foot.jpg)
 
+## 펌웨어 인스톨-qmk
+- 현재 qmk만 테스트 했으며 사용하고 있음.
+- 코드를 다운 받은후 qmk폴더에 있는 fungo 폴더를 qmk 라이버러리의 keyboards 폴더에 넣고 컴파일 한다.
+- 현재 설정은 오른쪽 키보드에 usb전원을 공급하도록 되어있다.
+- qmk 라이버러리는 https://github.com/qmk/qmk_firmware 에서 다운 받을 수 있다.
+
 
 
