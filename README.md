@@ -224,3 +224,46 @@ elite-c 보드의 추가 포트용(빨간색), nicenano 보드의 배터리 연�
 ![diode solder(2)](picture/bottom%20case%20pcb%20(3).jpg)
 ![diode solder(2)](picture/bottom%20case%20pcb%20(4).jpg)
 ![diode solder(2)](picture/bottom%20case%20pcb.jpg)
+
+### 기타
+조립된 상태
+![diode solder(2)](picture/assem1.jpg)
+
+스위치 조립했을 때 뒷면
+![diode solder(2)](picture/assemback-2.jpg)
+![diode solder(2)](picture/assemback-3.jpg)
+![diode solder(2)](picture/assemback1.jpg)
+
+바닥 케이스 pcb에 황동 서포터 조립된 상태
+![diode solder(2)](picture/lowercase.jpg)
+
+황동 서포터
+
+![diode solder(2)](picture/cu-support.jpg)
+
+현재 사용중인 Elite-c 컨트롤 보드에 양방향 핀헤더 납땝한 상태
+![diode solder(2)](picture/elite-c_back.jpg)
+
+왼쪽 키보드에서 컨트롤러 보드를 제거한 상태, 소켓 커넥트를 사용하여 컨트롤러를 교체형으로 함, 컨트롤러 보드 아래에 배터리를 놓기 위해서 빈 공간에 캡톤 테이프로 채웠음. 빨간색 화살표 부위가 상부 pcb 와 컨트롤러 보드가 간섭을 일어키는 부분.
+![diode solder(2)](picture/left-socket-open.jpg)
+
+폰잭
+
+![diode solder(2)](picture/phonejack.jpg)
+
+스위치 스왑 소켓
+
+![diode solder(2)](picture/swapsocket-1.jpg)
+![diode solder(2)](picture/swapsocket.jpg)
+
+체리 mx 스위치
+![diode solder(2)](picture/switch-back.jpg)
+![diode solder(2)](picture/switch-back1.jpg)
+![diode solder(2)](picture/switch-up.jpg)
+![diode solder(2)](picture/switch-up1.jpg)
+
+케이스 바닥에 사용한 풋, 미끄럼 방지
+![diode solder(2)](picture/foot.jpg)
+
+
+
