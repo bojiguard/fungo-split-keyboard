@@ -245,7 +245,7 @@ elite-c 보드의 추가 포트용(빨간색), nicenano 보드의 배터리 연�
 ![diode solder(2)](picture/elite-c_back.jpg)
 
 왼쪽 키보드에서 컨트롤러 보드를 제거한 상태, 소켓 커넥트를 사용하여 컨트롤러를 교체형으로 함, 컨트롤러 보드 아래에 배터리를 놓기 위해서 빈 공간에 캡톤 테이프로 채웠음. 빨간색 화살표 부위가 상부 pcb 와 컨트롤러 보드가 간섭을 일어키는 부분.
-![diode solder(2)](picture/left-socket-open.jpg)
+
 
 폰잭
 
