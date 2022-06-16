@@ -216,15 +216,11 @@ elite-c 보드의 추가 포트용(빨간색), nicenano 보드의 배터리 연�
 ![diode solder(2)](picture/right%20pattern%20pcb.jpg)
 
 ### 하부 케이스 pcb
-- 스위치를 끼우는 곳으로체리 mx, 카일Choc 스위치 모두 호환되게 하였으나 카일 스위치의 경우 사용해보지 않아 설치했을 경우 유격은 알 수 없음.
-- mx 스위치를 프레임에 끼울 경우 전용 공구 없이 빼기는 매우 어려움.
+- 아래쪽 케이스로 사용한다.
 - 좌,우 구분없이 사용이 가능하다.
-- 스위치가 배치되지 않는 공간에 19금 그림이 인쇄되어 있다.(한쪽 면에만 인쇄되어 있으므로 보기 싫을 경우 뒤집어서 사용 가능)
+- 19금 그림이 인쇄되어 있다.(한쪽 면에만 인쇄되어 있으므로 보기 싫을 경우 뒤집어서 사용 가능)
 
-왼쪽, 뒤집으면 오른쪽으로 사용 가능
-![diode solder(2)](picture/top%20pcb.jpg)
-오른쪽, 뒤집으면 왼쪽으로 사용 가능
-![diode solder(2)](picture/top%20pcb%20(2).jpg)
-왼쪽, 오른쪽 뒷면
-![diode solder(2)](picture/top%20frame%20pcb.jpg)
-
+![diode solder(2)](picture/bottom%20case%20pcb%20(2).jpg)
+![diode solder(2)](picture/bottom%20case%20pcb%20(3).jpg)
+![diode solder(2)](picture/bottom%20case%20pcb%20(4).jpg)
+![diode solder(2)](picture/bottom%20case%20pcb.jpg)
