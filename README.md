@@ -129,7 +129,7 @@
 - 컨트롤러 보드의 연결 구멍의 크기가 작아 사각형핀은 사용할 수 없으므로 둥근핀을 사용해야 함.
 - 소켓:310-87-164 Straight Socket Connector 64pin 2.54mm(엘레파츠), 핀과 소켓이 함께 있음.
 - 핀헤더:양방향 핀헤더 Single 40Pin 2.54mm(디바이스마트), 핀이 양방향으로 있음, 컨트롤러 보드에 납땜후 잘라냄.
-- 
+
 elite-c 보드에 양향향 핀헤더를 납땜한 후 잘라낸 상태, 양방향 핀헤더의 조립방법은 여러가지로 가능하다.
 ![diode solder(2)](picture/elite-c%20solder.jpg)
 
@@ -140,6 +140,9 @@ elite-c 보드에 양향향 핀헤더를 납땜한 후 잘라낸 상태, 양방�
 
 elite-c 보드와 소켓이 조립되는 상태(아래의 소켓이 pcb에 납땜된다)
 ![diode solder(2)](picture/round%20pinheader%20socket.jpg)
+
+elite-c 보드의 추가 포트용(빨간색), nicenano 보드의 배터리 연결단자(보라색), 사진은 오른쪽 키보드임.
+![diode solder(2)](picture/right-pattern.jpg)
 
 ### 점퍼용 핀헤더(피치2mm), 외부 연결용 핀헤더 소켓(피치2.54mm)
 - 컨트롤러의 포트를 설정하기 위해서 점퍼를 이용해서 설정함.
