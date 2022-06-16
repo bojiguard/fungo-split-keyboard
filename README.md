@@ -145,23 +145,20 @@ elite-c 보드와 소켓이 조립되는 상태(아래의 소켓이 pcb에 납�
 - 컨트롤러의 포트를 설정하기 위해서 점퍼를 이용해서 설정함.
 
 **오른쪽 키보드**
-- J12
-- J9
+- J12: nicenano 모듈 사용시 raw핀과 배터리 +극을 연결시켜야 할때, nicenano 설명서 확인.
+- J9 : 좌,우 키보드 통신용 포트의 풀업저항 사용
 - J3
 - J4
 - J5
 - J6
 - J7
 - J8
+
 **왼쪽 키보드**
 - J22
 - J23
-- J3
-- J4
-- J5
-- J6
-- J7
-- J8
+- J26: nicenano 모듈 사용시 raw핀과 배터리 +극을 연결시켜야 할때, nicenano 설명서 확인.
+
 
 ![diode solder(2)](picture/hot%20swap%20socket%20bottom%201.jpg)
 ![diode solder(2)](picture/hot%20swap%20socket%20bottom.jpg)
