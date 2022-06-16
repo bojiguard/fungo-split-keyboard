@@ -157,14 +157,13 @@ elite-c 보드와 소켓이 조립되는 상태(아래의 소켓이 pcb에 납�
 - J8 : 1-2번만 가능, elite-c 보드의 F1번 포트와 J2 소켓의 4번핀을 연결함.
 
 **왼쪽 키보드**
-- J22
-- J23
+- J22 : 좌,우 키보드 통신용 포트의 풀업저항 사용 - 현재 필요하지 않음.
+- J23 : 좌,우 키보드 통신용 포트의 선택, 1-2:D3번 포트를 사용, 2-3:D2번 포트를 사용
+- qmk 펌웨어에서 하나의 펌웨어를 사용할 경우 통신 포트는 같아야 한다.
 - J26: nicenano 모듈 사용시 raw핀과 배터리 +극을 연결시켜야 할때, nicenano 설명서 확인.
 
 
-![diode solder(2)](picture/hot%20swap%20socket%20bottom%201.jpg)
-![diode solder(2)](picture/hot%20swap%20socket%20bottom.jpg)
-![diode solder(2)](picture/hot%20swap%20socket.jpg)
-![diode solder(2)](picture/hotswap%20socket.jpg)
+![diode solder(2)](picture/right%20pcb%20jump.jpg)
+![diode solder(2)](picture/right%20pcb%20pinheader.jpg)
 
-![diode size](picture/diode%20size.jpg)
+
