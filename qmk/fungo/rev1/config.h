@@ -32,10 +32,9 @@
 
 /* Use I2C or Serial, not both */
 #define USE_SERIAL
-
 #define SOFT_SERIAL_PIN D3	// RX8
 
-/* select main board  - usb를 박을 곳 지정*/
+/* select keyboard  master board  - I2C or Serial communication master    */
 #define MASTER_RIGHT
 
 
@@ -50,8 +49,6 @@
 
 #define MATRIX_COL_PINS_RIGHT {F7, F6, F5, F4, B5, B4, E6}
 #define MATRIX_ROW_PINS_RIGHT { D1, D0, D4, C6, D7, D3}    	// TX   
-
-
 
 
 
@@ -86,7 +83,9 @@
 #define TAPPING_TERM 200
 #define IGNORE_MOD_TAP_INTERRUPT
 
-
+//caps word, left shift + right shift => capslock
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+#define CAPS_WORD_IDLE_TIMEOUT 500   //default 5000msec
 
 #define MK_3_SPEED
 #define MOUSEKEY_INTERVAL 3
