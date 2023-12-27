@@ -1,4 +1,4 @@
-# fungo split keyboard (fungo)
+# fungo frankenstein keyboard
 
 
 A customized fungo default keyboard
