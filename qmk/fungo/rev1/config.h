@@ -16,72 +16,15 @@
 
 #pragma once
 
-
-#include "config_common.h"
-
-
-/* Use I2C or Serial, not both */
-#define USE_SERIAL
-#define SOFT_SERIAL_PIN D3	// RX8
-
 /* select keyboard  master board  - I2C or Serial communication master    */
 #define MASTER_RIGHT
-
-
-/* key matrix size */
-// Rows are doubled-up
-#define MATRIX_ROWS 12
-#define MATRIX_COLS 7
-
-// wiring of each half
-#define MATRIX_COL_PINS { F4, F5, F6, F7, B1, B3, B2}
-#define MATRIX_ROW_PINS { D4, C6, D7, E6, B4, B5}
-
-#define MATRIX_COL_PINS_RIGHT {F7, F6, F5, F4, B5, B4, E6}
-#define MATRIX_ROW_PINS_RIGHT { D1, D0, D4, C6, D7, D3}    	// TX   
-
-// 왼쪽에 엔코더추가 - oled 라인에 추가
-#define ENCODERS_PAD_A { D1 }
-#define ENCODERS_PAD_B { D0 }
-#define ENCODER_RESOLUTIONS { 4 }
-#define ENCODERS_PAD_A_RIGHT { }
-#define ENCODERS_PAD_B_RIGHT { }
-#define ENCODER_RESOLUTIONS_RIGHT { }
-
-#define ENCODER_DIRECTION_FLIP
-
-/* COL2ROW, ROW2COL*/
-#define DIODE_DIRECTION COL2ROW
-
-
 
 /*************************************/
 /**       public parameter       **/
 /*************************************/
-
-#define MATRIX_IO_DELAY 15  // default  30
-#define TAP_CODE_DELAY  50   // default 0, disabled
-// #define USB_POLLING_INTERVAL_MS   1 // default 1
-
-/* Set 0 if debouncing isn't needed */
-#define DEBOUNCE 3
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
 
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
-
-//지정된 횟수로 눌러야 토글됨
-#define TAPPING_TOGGLE 3
-
-//caps word, left shift + right shift => capslock
-#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
-#define CAPS_WORD_IDLE_TIMEOUT 500   //default 5000msec
-
-
-//tap or holding - 업데이트후 변경됨
-#define TAPPING_TERM 200
-
-
-
