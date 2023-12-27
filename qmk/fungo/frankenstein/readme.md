@@ -23,5 +23,6 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 Hardware Information: [Document](https://github.com/bojiguard/fungo-split-keyboard)  
 matrix: 5x7+3  
-left : add encoder 1EA
-right: add pimoromni trackball breakout pim447 and mouse switch 2EA
+left : add encoder 1EA  
+right: add pimoromni trackball breakout pim447 and mouse switch 2EA  
+
